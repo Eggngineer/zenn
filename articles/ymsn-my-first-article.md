@@ -3,7 +3,7 @@ title: "はじめてのZenn"
 emoji: "🙇🏻‍♂️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Zenn","markdown","入門"]
-published: false
+published: true
 ---
 
 こんにちは．情報系の大学院生をやっているszakと申します．
